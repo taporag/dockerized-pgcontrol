@@ -1,0 +1,49 @@
+# Ignore .env files to protect sensitive credentials
+.env
+
+# Ignore backup files
+/backups/
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore Docker-related files
+docker-compose.override.yml
+docker-compose.override.*.yml
+
+# Ignore editor and system files
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.old
+~$*
+
+# Ignore build files
+build/
+dist/
+
+# Ignore other generated or temporary files
+*.out
+*.class
+*.cache
+*.lock
+*.pid
+*.seed
+*.log
+
+# Ignore node_modules (if Node.js dependencies are ever added)
+node_modules/
