@@ -9,7 +9,7 @@ Keywords: PostgreSQL, Docker, Database Backup, Database Restore, Docker Compose,
 To start with this project, first, clone the repository and navigate to the project directory:
 
 ```bash
-git clone git@github.com:taporag/dockerized-pgcontrol.git
+git clone git@github.com:taporag/dockerized-postgresql.git
 cd dockerized-pgcontrol
 ```
 
