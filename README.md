@@ -10,7 +10,7 @@ To start with this project, first, clone the repository and navigate to the proj
 
 ```bash
 git clone git@github.com:taporag/dockerized-postgresql.git
-cd dockerized-pgcontrol
+cd dockerized-postgresql
 ```
 
 This project includes a setup.sh script to simplify the setup process. The script performs the following tasks:
